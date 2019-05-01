@@ -67,6 +67,8 @@ for row in arr:
 ![流程图](https://catsjuice.cn/index/src/markdown/stock/mind201905012008.jpg "换手率程序设计流程图")
 
 
+[点此查看流程图原图](https://catsjuice.cn/index/src/markdown/stock/mind201905012008_origin.png)
+
 ## **下载**
 - 直接下载`.zip`文件
 - `git clone https://github.com/CatsJuice/low-switch-hand-rate.git`
